@@ -94,7 +94,8 @@ The objective is to transform raw data into meaningful insights that support dat
 
 ---
 
-## Dashboard Highlights
+## Dashboard 
+* <img width="1189" height="729" alt="image" src="https://github.com/user-attachments/assets/955904c0-8ba1-4f36-8914-535667aa9b4d" />
 
 The Power BI dashboard includes:
 
